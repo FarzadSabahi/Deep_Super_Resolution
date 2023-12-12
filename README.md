@@ -1,4 +1,4 @@
-# Image Super-Resolution Deep Learning Project
+# Deep Image Super-Resolution Network
 
 This project is focused on improving the resolution of images using deep learning, specifically with convolutional neural networks.
 
